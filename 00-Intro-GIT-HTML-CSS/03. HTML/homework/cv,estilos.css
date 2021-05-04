@@ -1,0 +1,28 @@
+
+body{
+    background-color: wheat;}
+head{
+    margin-top: .18em;
+    margin-left: .50em;
+    margin-bottom: .100em;
+    margin-right: .200em;
+    background-color: blue;
+    padding-right: 25px;}
+
+    #imagen{
+        width: auto;
+        height: auto;
+    
+        
+
+    }
+    #descripcion{
+        text-align: justify;
+        text-align: left;
+        font-family: courier;
+        font-size:16px;
+        background-color: mediumturquoise;
+        border-top: olive;
+        border-left: 15px;
+                
+    }
